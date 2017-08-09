@@ -1,3 +1,11 @@
 #shouting {
   display: none;
 }
+
+.word-shout-bold {
+  font-weight: bold;
+}
+
+.word-shout-italic {
+  font-style: italic;
+}
